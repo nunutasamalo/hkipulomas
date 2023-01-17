@@ -1,2 +1,3 @@
 username: jairomanalu
 password:donthackme
+url:mposdrc.clickmayora.co.id
